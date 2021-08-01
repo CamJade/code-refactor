@@ -13,6 +13,14 @@ The refactored version of this code is able to be used with assistive technologi
 
 Pre-existing code was taken from osu-col-virt-fsf-pt-07-2021-u-c/ repository.
 
-## Links
+## Link and Screen Shots
   
-  Link to Website: https://camjade.github.io/code-refactor/Develop/index.html
+  Link to Website:
+  https://camjade.github.io/code-refactor/Develop/index.html
+  
+  Links to Screenshots:
+  https://user-images.githubusercontent.com/84090621/127755346-439378d0-d94c-42f1-a025-5935fd71cb03.png
+  https://user-images.githubusercontent.com/84090621/127755324-a7f7deb4-8f36-434d-abae-6f1552b120b4.png
+  
+
+
